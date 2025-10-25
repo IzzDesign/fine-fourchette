@@ -14,36 +14,36 @@ a:hover{
 
 @font-face {
     font-family: 'garagegothicbold';
-    src: url('fonts/garage_gothic_bold-webfont.woff2') format('woff2'),
-         url('fonts/garage_gothic_bold-webfont.woff') format('woff');
+    src: url('../fonts/garage_gothic_bold-webfont.woff2') format('woff2'),
+         url('../fonts/garage_gothic_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Old Standard TT";
-    src: url('fonts/oldstandardtt-regular.ttf') format('truetype');
+    src: url('../fonts/oldstandardtt-regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Old Standard TT";
-    src: url('fonts/oldstandardtt-bold.ttf') format('truetype');
+    src: url('../fonts/oldstandardtt-bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Old Standard TT";
-    src: url('fonts/oldstandardtt-italic.ttf') format('truetype');
+    src: url('../fonts/oldstandardtt-italic.ttf') format('truetype');
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
     font-family: "Great Vibes";
-    src: url('fonts/greatvibes-regular.ttf') format('truetype');
+    src: url('../fonts/greatvibes-regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
