@@ -80,7 +80,7 @@ body{
 }
 
 header{
-    background: linear-gradient(to left, rgba(21, 21, 21, 1) 300px, rgba(21, 21, 21, 0) 800px), url('img/bandeau.png');
+    background: linear-gradient(to left, rgba(21, 21, 21, 1) 300px, rgba(21, 21, 21, 0) 800px), url('../img/bandeau.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 440px;
