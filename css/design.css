@@ -208,7 +208,7 @@ a.cta-link:hover{
 
 #horaires{
     display: grid;
-    grid-template-columns: 0.2fr 1fr 0.5fr 0.2fr;
+    grid-template-columns: 0.3fr 1fr 0.5fr 0.3fr;
     grid-template-rows: auto auto;
     column-gap: 20px;
     padding: 2.5em 0;
