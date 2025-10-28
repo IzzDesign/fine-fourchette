@@ -251,7 +251,7 @@ a.cta-link:hover{
 }
 
 #valeurs{
-    background: url("/img/valeurs.png");
+    background: url("../img/valeurs.png");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 650px;
